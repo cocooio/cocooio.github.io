@@ -7,8 +7,18 @@ body {
   font-weight: 400;
 }
 
-.logo{
-    width: 100vw;
-    height: auto;  
+.logo {
+  width: 500px;
+  height: auto;
 }
 
+.subText {
+  font-size: 1rem;
+  color: #4a4a4a;
+  font-weight: 400;
+}
+
+.mText {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
